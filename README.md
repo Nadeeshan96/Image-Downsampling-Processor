@@ -1,5 +1,5 @@
 # Image-Downsampling-Processor
-Design and Implementation of RISC related processor using VERILOG HDL and XILINX SPARTAN-6 FPGA
+Design and Implementation of RISC related processor using VERILOG HDL and XILINX SPARTAN-6 FPGA. The  programmable logic device design software used is Xilinx ISE.
 
 
 ## compileme.py
