@@ -1,7 +1,9 @@
+# import necessary modules 
 import re
 import sys
 import time
 
+# define isa operations
 ops = {
     'nop': 0b0000,
     'add': 0b0001,
@@ -19,6 +21,8 @@ ops = {
     'uartsend': 0b1101,
     'uartread': 0b1110
 }
+
+#define registers
 reg = {
     'zr': 0b00000,
     'mbr': 0b00001,
